@@ -1,0 +1,32 @@
+header{
+    height: 100px;
+    @include center();
+    .contenitore{
+        @include center(between);
+        .logo{
+         width: 70px;
+        }
+        .nav-bar{
+            @include center(align);
+            nav{  
+                ul li{
+                   
+                    display: inline-block;
+                    margin-left: 10px;
+                    color: black;
+                    font-size: 11px;
+                    a{
+                        color: black; 
+                        &:hover,
+                        &.active{
+                            color: #0081FA;
+                            padding-bottom: 38px;
+                            border-bottom: 4px solid #0081FA;
+                        }
+                    
+                    }
+                }
+            }
+        }
+    }
+}
