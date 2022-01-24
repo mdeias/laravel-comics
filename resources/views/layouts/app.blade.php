@@ -9,7 +9,10 @@
 </head>
 <body>
     @include('partial.header')
+    @include('partial.jumbotrone')
+
     @yield('content')
+    
     @include('partial.footer')
 </body>
 </html>

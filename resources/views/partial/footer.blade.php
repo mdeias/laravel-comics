@@ -17,11 +17,19 @@
                 </ul>
                 <ul>
                     <li><h6>DC</h6></li>
-                    <li ><a href="#"></a></li>
+                    <li ><a href="#">lorem</a></li>
+                    <li ><a href="#">lorem</a></li>
+                    <li ><a href="#">lorem</a></li>
+                    <li ><a href="#">lorem</a></li>
+                    <li ><a href="#">lorem</a></li>
                 </ul>
                 <ul>
                     <li><h6>SITES</h6></li>
-                    <li ><a href="#"></a></li>
+                    <li ><a href="#">lorem</a></li>
+                    <li ><a href="#">lorem</a></li>
+                    <li ><a href="#">lorem</a></li>
+                    <li ><a href="#">lorem</a></li>
+                    <li ><a href="#">lorem</a></li>
                 </ul>
             </div>
             <div class="logo-footer">
