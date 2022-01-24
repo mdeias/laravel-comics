@@ -176,3 +176,33 @@ footer .bottom .contenitore .call-to button a {
   color: white;
 }
 
+main {
+  min-height: 500px;
+  background-color: #1C1C1C;
+  color: white;
+}
+
+main .contenitore {
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+  position: relative;
+  padding: 50px 0px 100px 0px;
+}
+
+main .card {
+  flex-basis: 13%;
+  margin: 5px;
+}
+
+main .card .copertina {
+  width: 150px;
+  height: 150px;
+  overflow: hidden;
+}
+
+main .card p {
+  margin-top: 10px;
+  font-size: 11px;
+}
+
